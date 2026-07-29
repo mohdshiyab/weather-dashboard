@@ -13,6 +13,10 @@ A clean, dashboard-style weather app built with **Vue 3 (Composition API)**, **P
 - **Condition-aware "sky" background** — the current-weather panel's gradient shifts to match the reported condition (clear / cloudy / rain / storm)
 - Accessible: visible keyboard focus rings, `aria-live`/`role="alert"` on loading and error states, `prefers-reduced-motion` respected
 
+#photos
+<img width="706" height="817" alt="image" src="https://github.com/user-attachments/assets/b07b35b6-48e4-4ff9-97fe-45ada0f91bb1" />
+
+
 ## Getting started
 
 ```bash
